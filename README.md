@@ -1,1 +1,1 @@
-This is my loacl repository.
+This is my local repository.
